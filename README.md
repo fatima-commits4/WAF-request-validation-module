@@ -21,13 +21,6 @@ This application operates as a reverse proxy sitting on port `8080`. It intercep
 
 ## Team & Credits
 Developed collaboratively as a group project:
-Fatima Abou Hagar: Request Validation
-Eleni Zoga: Rate Limiting
-Panagiotis Vidalis: SQL Injection
-Nikos Gkolfinos: XSS Module
-Eleni Zoga: Rate Limiting
 Nikos Gkolfinos: SQL Injection
+Eleni Zoga: Rate Limiting
 Pangiotis Vidalis: XSS Module
-- **[Your Name]:** Core HTTP Server Pipeline Integration (`MainServer`), Request Validation Logic (`RequestValidationModule`), and Interception Routing.
-- **[Teammate 1 Name]:** Security Modules (e.g., SQLi / XSS Filters).
-- **[Teammate 2 Name]:** Traffic Forwarding & Utility Architecture.
